@@ -5,7 +5,9 @@
     "ecs",
     "sam",
     "dynamodb",
-    "fogg"
+    "eb",
+    "fogg",
+    "aqq"
   ],
   "versions": {}
 }
