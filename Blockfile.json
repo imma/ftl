@@ -1,4 +1,8 @@
 {
-  "require": [],
+  "require": [
+    "lambda",
+    "ecs",
+    "fogg"
+  ],
   "versions": {}
 }
