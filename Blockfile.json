@@ -1,5 +1,6 @@
 {
   "require": [
+    "docker",
     "aws",
     "lambda",
     "ecs",
@@ -12,7 +13,10 @@
     "packer",
     "vagrant",
     "virtualbox",
-    "anchore"
+    "anchore",
+    "fogg",
+    "fogg-tf",
+    "imma-tf"
   ],
   "versions": {}
 }
