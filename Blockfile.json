@@ -3,6 +3,8 @@
     "aws",
     "lambda",
     "ecs",
+    "sam",
+    "dynamodb",
     "fogg"
   ],
   "versions": {}
