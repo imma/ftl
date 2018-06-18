@@ -8,7 +8,11 @@
     "eb",
     "fogg",
     "aqq",
-    "ecr"
+    "ecr",
+    "packer",
+    "vagrant",
+    "virtualbox",
+    "anchore"
   ],
   "versions": {}
 }
