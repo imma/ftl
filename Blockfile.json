@@ -14,6 +14,7 @@
     "vagrant",
     "virtualbox",
     "anchore",
+    "newman",
     "fogg",
     "fogg-tf",
     "imma-tf"
